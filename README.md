@@ -60,3 +60,4 @@ The app utilizes a TextEditingController to manage the display and a Parser to e
 Contributions are welcome! If you'd like to improve the UI or add more advanced functions (like scientific modes), feel free to fork the repository and submit a pull request.
 
 Created by Sachin10Bisht
+
